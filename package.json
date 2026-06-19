@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.1.2",
+    "@tailwindcss/vite": "^4.3.1",
+    "daisyui": "^5.5.23",
+    "svelte": "^5.56.3",
+    "tailwindcss": "^4.3.1",
+    "vite": "^8.0.16"
+  },
+  "dependencies": {
+    "@allmaps/annotation": "^1.0.0-beta.37",
+    "@allmaps/leaflet": "^1.0.0-beta.54",
+    "@allmaps/transform": "^1.0.0-beta.52",
+    "leaflet": "^1.9.4",
+    "openseadragon": "^6.0.2"
+  }
+}
