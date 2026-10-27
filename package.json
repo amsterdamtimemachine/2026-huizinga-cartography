@@ -14,7 +14,7 @@
     "daisyui": "^5.5.23",
     "svelte": "^5.56.3",
     "tailwindcss": "^4.3.1",
-    "vite": "^8.0.16"
+    "vite": "^8.3.5"
   },
   "dependencies": {
     "@allmaps/annotation": "^1.0.0-beta.37",
